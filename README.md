@@ -1,2 +1,2 @@
 # sohbetodalarii.github.io
-sohbet odaları
+[sohbetodalari](http://www.sohbetodalari.life)
